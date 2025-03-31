@@ -8,3 +8,4 @@ bash- cd client && npm start Test the Project:
 Open the app in your browser (e.g., http://localhost:3000).
 
 Create, edit, and share documents in real-time.
+mongodb+srv://soorajaheer9:U74Tk1PQZVcOKZxU@test.rmiis3l.mongodb.net/?retryWrites=true&w=majority&appName=test
